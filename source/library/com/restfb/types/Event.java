@@ -283,10 +283,6 @@ public class Event extends NamedFacebookType {
     return venue;
   }
 
-  public List<Venue> getVenueList() {
-    return venueList;
-  }
-
   /**
    * The RSVP status of this event.
    * 
